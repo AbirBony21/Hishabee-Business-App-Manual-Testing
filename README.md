@@ -1,5 +1,4 @@
 # Hishabee Business App Manual Testing
----
 
 ## Project Overview
 This repository contains the test case report for the **Hishabee Business App**, focusing on the **Inventory Management** and **Sales Management** modules. The objective of this testing is to ensure the functionality, usability, and reliability of the application.
