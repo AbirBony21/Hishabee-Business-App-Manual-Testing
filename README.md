@@ -1,13 +1,15 @@
 # Hishabee Business App Manual Testing
+---
 
 ## Project Overview
 This repository contains the test case report for the **Hishabee Business App**, focusing on the **Inventory Management** and **Sales Management** modules. The objective of this testing is to ensure the functionality, usability, and reliability of the application.
 
----
-
 ## Contents
 
-1. **Hishabee Business App Manual Testing.xlsx**  
+1. **Test Plan.pdf**  
+   A comprehensive document detailing the test approach, scope, environment, schedule, deliverables etc. for the **Hishabee Business App Manual Testing** project.
+
+2. **Hishabee Business App Manual Testing.xlsx**  
    Contains detailed test cases, execution results, and bug tracking across four organized sheets:
    - **Test Summary**: An overview of the testing process, including key metrics like total test cases, pass/fail counts, and execution progress.  
    - **Inventory Management**: A structured list of test cases for **Inventory Management** module with detailed steps, expected outcomes, and actual results. 
@@ -15,12 +17,10 @@ This repository contains the test case report for the **Hishabee Business App**,
    - **Bug Report**: A detailed log of issues found during testing, including screenshots, priority & severity levels, and status.  
    - **Mindmap**: A representation of test coverage and strategy in a clear, hierarchical structure.
 
-2. **Mindmap.png**  
+3. **Mindmap.png**  
    A visual representation of the testing approach and strategy derived from the mindmap sheet.
    
    ![Mindmap](./Mindmap.png)
-
----
 
 ### Description of Excel Sheets  
 
@@ -73,16 +73,12 @@ This repository contains the test case report for the **Hishabee Business App**,
      - Bug Screenshot links (used JIRA tool)  
      - Responsible QA
 
----
-
 ## Types of Testing Performed
 
 1. **Functionality Testing**: Validates the application against the specified requirements.
 2. **Usability Testing**: Assesses user-friendliness of the application.
 3. **Negative Testing**: Tests application behavior with invalid inputs.
 4. **Reliability Testing**: Evaluates the application's ability to perform under defined conditions.
-
----
 
 ## Test Case Summary
 
@@ -91,8 +87,6 @@ This repository contains the test case report for the **Hishabee Business App**,
 - **Failed**: 6
 - **Not Implemented**: 2
 - **Pass Rate**: 87.69%
-
----
 
 ## Test Cases and Results
 
@@ -153,8 +147,6 @@ This repository contains the test case report for the **Hishabee Business App**,
      - Handling scenarios with no recorded sales.
 	   and more.
 
----
-
 ## Tools Used
 
 1. **JIRA (for Bug Tracking)**  
@@ -165,16 +157,12 @@ This repository contains the test case report for the **Hishabee Business App**,
    - **Purpose**: To create a detailed test strategy and coverage mind map.  
    - **Download**: [Xmind](https://xmind.app/download/)
 
----
-
 ## Test Execution Timeline
 
 - **Test Case Writing Start Date**: 10/12/2024
 - **Test Execution Start Date**: 10/12/2024
 - **Test Case Writing End Date**: 12/12/2024
 - **Test Execution End Date**: 12/12/2024
-
----
 
 ## How to Use  
 
